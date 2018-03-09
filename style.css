@@ -1,0 +1,15 @@
+.navbar-expand-lg{
+    background-color: red;
+}
+section{
+    height:700px;
+}
+#home{
+    background-color: magenta;
+}
+#about{
+    background-color: green;
+}
+#contact{
+    background-color: Yellow;
+}
